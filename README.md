@@ -17,7 +17,7 @@ Also, the dataset contains as above mentioned 27 pitting development sequences w
 
 For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 
-![dataset demo image](./demo/demo.jpg)
+![dataset demo image](./demo/demo.png)
 On the left image-examples, on the right associated VOC-Annotations.
 
 If you consider using this dataset we recommend to `clone` this repository.
@@ -43,5 +43,4 @@ Script inputs:
 
 **Result:**<br>
 `./BSD_slit_folder/train/` and `./BSD_slit_folder/test/`
-
 
