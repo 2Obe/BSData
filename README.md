@@ -1,4 +1,4 @@
-# BSData - dataset for Instance Segmentation
+# BSData - dataset for Instance Segmentation and industrial Wear Forecasting
 
 The dataset contains 1104 channel 3 images with 394 image-annotations for the surface damage 
 type “pitting”. The annotations made with the annotation tool [labelme](https://github.com/wkentaro/labelme), 
