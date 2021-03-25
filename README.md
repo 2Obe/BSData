@@ -15,7 +15,7 @@ time the degree of soiling is evolving.<br>
 Also, the dataset contains as above mentioned 27 pitting development sequences with every 69 images.<br>
 
 
-For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://arxiv.org/abs/2103.13003)
 
 ![dataset demo image](./demo/demo.png)
 On the left image-examples, on the right associated PNG-Annotations.
