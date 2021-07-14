@@ -17,6 +17,9 @@ Also, the dataset contains as above mentioned 27 pitting development sequences w
 
 For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://arxiv.org/abs/2103.13003)
 
+
+If you are looking for a classification dataset we recommend considering our dataset [**Ball Screw Drive Surface Defect Dataset for Classification**](## Ball Screw Drive Surface Defect Dataset for Classification)
+
 ![dataset demo image](./demo/demo.png)
 On the left image-examples, on the right associated PNG-Annotations.
 
@@ -44,3 +47,10 @@ Script inputs:
 **Result:**<br>
 `./BSD_slit_folder/train/` and `./BSD_slit_folder/test/`
 
+---
+## Ball Screw Drive Surface Defect Dataset for Classification
+The dataset contains of 21835 150x150 Pixel RGB images of the surface of Ball Screw Drives. 11075 of these images are images without surface defects whereas the rest shows images with surface defects in form of so called pittings. So the dataset is evenly split over the classes. Pittings result from surface disruption and can ultimately lead to the breakdown of the component. To keep the availability of machines high it is important to find surface defects in time. The here presented dataset gives researchers and practitioners the possibility to train and test models for the classification of surface defects on machine tool elements.
+
+![BSD Surface Defect Dataset for classification](./demo/BSD_Surface_Defect_Dataset_for_Classification.png)
+
+Above Image is a Subset of Images with pitting. You can download this dataset [here](https://publikationen.bibliothek.kit.edu/1000133819).
