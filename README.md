@@ -18,7 +18,7 @@ Also, the dataset contains as above mentioned 27 pitting development sequences w
 For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://arxiv.org/abs/2103.13003)
 
 
-If you are looking for a classification dataset we recommend considering our dataset [**Ball Screw Drive Surface Defect Dataset for Classification**](## Ball Screw Drive Surface Defect Dataset for Classification)
+If you are looking for a classification dataset we recommend considering our dataset [**Ball Screw Drive Surface Defect Dataset for Classification**](#Ball-Screw-Drive-Surface-Defect-Dataset-for-Classification)
 
 ![dataset demo image](./demo/demo.png)
 On the left image-examples, on the right associated PNG-Annotations.
