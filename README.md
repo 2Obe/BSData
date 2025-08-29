@@ -16,7 +16,7 @@ Also, the dataset contains as above mentioned 27 pitting development sequences w
 
 The naming logic of the images is as follows, where the bold part carries the time information (yy-mm-dd-hh-mm-ss):
 *01_**200907232354**_560000_000_crop_1.jpg*
-You can find the label for the respective image in the labels folder. The key
+You can find the label for the respective image in the [label](https://github.com/2Obe/BSData/tree/main/label) folder. The key "label" indicates if the image contains pittings or not.
 
 
 For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://arxiv.org/abs/2103.13003)
