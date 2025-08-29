@@ -14,6 +14,10 @@ The other BSD type is shown on 325 images with two image-sizes. Since all images
 time the degree of soiling is evolving.<br>
 Also, the dataset contains as above mentioned 27 pitting development sequences with every 69 images.<br>
 
+The naming logic of the images is as follows, where the two bold parts carry the important information:
+*01_**200907232354**_560000_000_crop\_**1**.jpg*
+The first part is the evolving date (yy-mm-dd-hh-mm-ss) where the second part (1 or 2) indicates, if the image contains a defect (1) or not (2).
+
 
 For more information visit the dataset-publication: [Industrial Machine Tool Element Surface Defect Dataset](https://arxiv.org/abs/2103.13003)
 
